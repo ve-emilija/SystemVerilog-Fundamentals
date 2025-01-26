@@ -8,28 +8,150 @@ z2
 !i10e 25
 !i10f 100
 cModel Technology
-Z0 dC:/Users/Emilija/Desktop/SystemVerilogFundamentals-
-vexample_variable
-DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
-!s110 1734991703
+Z0 dC:/Users/Emilija/Desktop/SystemVerilog-Fundamentals
+vbit_example
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1737795714
 !i10b 1
-!s100 oZX[CJiG7:GHP=M10?fM73
-!s11b Dg1SIo80bB@j0V0VzS_@n1
-IjT^TaMOVkHKIgGndj@@IV0
-VDg1SIo80bB@j0V0VzS_@n1
+!s100 k?7c>F?cGQ`lB_E3mYAEM3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Iz_?WVH0lacKUYSA<C:I8<0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
 S1
 R0
-w1734991605
-8.\example_variables.sv
-F.\example_variables.sv
-!i122 0
-L0 1 24
-OV;L;2020.1;71
+w1737795710
+8.\bit_example.sv
+F.\bit_example.sv
+!i122 60
+L0 1 45
+Z4 OV;L;2020.1;71
 r1
 !s85 0
 31
-!s108 1734991703.000000
-!s107 .\example_variables.sv|
-!s90 .\example_variables.sv|
+!s108 1737795714.000000
+!s107 .\bit_example.sv|
+!s90 .\bit_example.sv|
 !i113 1
-tCvgOpt 0
+Z5 tCvgOpt 0
+vinitial_begin
+R1
+!s110 1737289929
+!i10b 1
+!s100 n1I2aPI?QJE8_8PES3@5Z3
+R2
+I=^1>K=Dm6YDe8njFNii981
+R3
+S1
+R0
+w1737289134
+8.\initial_begin.sv
+F.\initial_begin.sv
+!i122 46
+L0 1 15
+R4
+r1
+!s85 0
+31
+!s108 1737289929.000000
+!s107 .\initial_begin.sv|
+!s90 -sv|.\initial_begin.sv|
+!i113 1
+o-sv
+R5
+vlogic_example
+R1
+!s110 1737817071
+!i10b 1
+!s100 o9R:TaaUA7n]I7hbGK>id0
+R2
+IkV@P^fAo=2R>3552WblbN0
+R3
+S1
+R0
+w1737817067
+8.\logic_example.sv
+F.\logic_example.sv
+!i122 61
+Z6 L0 1 5
+R4
+r1
+!s85 0
+31
+!s108 1737817071.000000
+!s107 .\logic_example.sv|
+!s90 .\logic_example.sv|
+!i113 1
+R5
+vreq_and_always
+R1
+!s110 1737795513
+!i10b 1
+!s100 hc?3L43YVA6iLE^WTOKTb3
+R2
+ITCFRfF_EYj?l]1gmL0K=l2
+R3
+S1
+R0
+w1737795512
+8.\reg_and_always.sv
+F.\reg_and_always.sv
+!i122 59
+L0 1 11
+R4
+r1
+!s85 0
+31
+!s108 1737795513.000000
+!s107 .\reg_and_always.sv|
+!s90 .\reg_and_always.sv|
+!i113 1
+R5
+vtimescale_directive
+R1
+!s110 1737289954
+!i10b 1
+!s100 CVMH@;S<?;DfPihePfhW90
+R2
+I?m6ff@A3l`lUgOZ?kkDmh0
+R3
+S1
+R0
+w1737289926
+8timescale_directive.sv
+Ftimescale_directive.sv
+!i122 47
+R6
+R4
+r1
+!s85 0
+31
+!s108 1737289953.000000
+!s107 timescale_directive.sv|
+!s90 -sv|timescale_directive.sv|
+!i113 1
+o-sv
+R5
+vwire_and_assign
+R1
+!s110 1737795409
+!i10b 1
+!s100 c0]bTeoCjYzg]L;kSJfAm2
+R2
+I^?D>45ckZjo]f2N;Hi=9T2
+R3
+S1
+R0
+w1737795369
+8.\wire_and_assign.sv
+F.\wire_and_assign.sv
+!i122 58
+L0 1 14
+R4
+r1
+!s85 0
+31
+!s108 1737795409.000000
+!s107 .\wire_and_assign.sv|
+!s90 .\wire_and_assign.sv|
+!i113 1
+R5
