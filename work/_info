@@ -33,6 +33,54 @@ r1
 !s90 .\bit_example.sv|
 !i113 1
 Z5 tCvgOpt 0
+vbyte_example
+R1
+!s110 1737901126
+!i10b 1
+!s100 TWF8a4=ezdgKDUEc?QReB3
+R2
+I7D9@bV_HmB4gba1[::eeI2
+R3
+S1
+R0
+w1737901120
+8.\byte_example.sv
+F.\byte_example.sv
+!i122 62
+L0 1 30
+R4
+r1
+!s85 0
+31
+!s108 1737901126.000000
+!s107 .\byte_example.sv|
+!s90 .\byte_example.sv|
+!i113 1
+R5
+venum_example
+R1
+!s110 1739367394
+!i10b 1
+!s100 AJYfHBL<E1YdC@=3VYDaW2
+R2
+I<h_TO1Xh490>CZO5:mLoO0
+R3
+S1
+R0
+w1739367392
+8.\enum_example.sv
+F.\enum_example.sv
+!i122 131
+L0 1 22
+R4
+r1
+!s85 0
+31
+!s108 1739367394.000000
+!s107 .\enum_example.sv|
+!s90 .\enum_example.sv|
+!i113 1
+R5
 vinitial_begin
 R1
 !s110 1737289929
@@ -58,6 +106,30 @@ r1
 !i113 1
 o-sv
 R5
+vint_example
+R1
+!s110 1737902939
+!i10b 1
+!s100 Po[07;b?mG;DNFPgSNfRo2
+R2
+Im<EfGAb5ZnkJ`C4]ZV6f`2
+R3
+S1
+R0
+w1737902937
+8.\int_example.sv
+F.\int_example.sv
+!i122 65
+L0 1 33
+R4
+r1
+!s85 0
+31
+!s108 1737902938.000000
+!s107 .\int_example.sv|
+!s90 .\int_example.sv|
+!i113 1
+R5
 vlogic_example
 R1
 !s110 1737817071
@@ -80,6 +152,30 @@ r1
 !s108 1737817071.000000
 !s107 .\logic_example.sv|
 !s90 .\logic_example.sv|
+!i113 1
+R5
+vreal_short_real
+R1
+!s110 1737908716
+!i10b 1
+!s100 @Z[MVZB]BiWTX_;I@BfF:1
+R2
+I_aLWDAcBoU>ZBRL]W]C;U2
+R3
+S1
+R0
+w1737908715
+8.\real_short_real.sv
+F.\real_short_real.sv
+!i122 83
+L0 1 19
+R4
+r1
+!s85 0
+31
+!s108 1737908716.000000
+!s107 .\real_short_real.sv|
+!s90 .\real_short_real.sv|
 !i113 1
 R5
 vreq_and_always
@@ -106,6 +202,102 @@ r1
 !s90 .\reg_and_always.sv|
 !i113 1
 R5
+vshort_long_int_integer_example
+R1
+!s110 1737904349
+!i10b 1
+!s100 SzO173_<SjVloae>oZXJ52
+R2
+Im9dl=2R@HZUG_EC;7h@:23
+R3
+S1
+R0
+w1737904344
+8short_long_int_integer_example.sv
+Fshort_long_int_integer_example.sv
+!i122 66
+R6
+R4
+r1
+!s85 0
+31
+!s108 1737904349.000000
+!s107 short_long_int_integer_example.sv|
+!s90 short_long_int_integer_example.sv|
+!i113 1
+R5
+vstruct_example
+R1
+!s110 1739293860
+!i10b 1
+!s100 GIkP7><:]mzF^J=o7_=4A1
+R2
+I8X[IRMBZaSk8P9R2`Ukg;2
+R3
+S1
+R0
+w1739293837
+8.\struct_example.sv
+F.\struct_example.sv
+!i122 94
+L0 1 40
+R4
+r1
+!s85 0
+31
+!s108 1739293860.000000
+!s107 .\struct_example.sv|
+!s90 .\struct_example.sv|
+!i113 1
+R5
+vtagged_union
+R1
+!s110 1739353560
+!i10b 1
+!s100 16KBd>JEU1b>[WX7nLlzl3
+R2
+IIX?;YPn@LfA:e7haNJ:7b0
+R3
+S1
+R0
+w1739353545
+8.\tagged_union.sv
+F.\tagged_union.sv
+!i122 114
+Z7 L0 1 17
+R4
+r1
+!s85 0
+31
+!s108 1739353559.000000
+!s107 .\tagged_union.sv|
+!s90 .\tagged_union.sv|
+!i113 1
+R5
+vtime_real_time
+R1
+!s110 1737907156
+!i10b 1
+!s100 9?]m>m5d?H7L`RzGOZ;O=2
+R2
+IH_Lg0WQ82V:?efKTJ:1eC0
+R3
+S1
+R0
+w1737907154
+8.\time_real_time.sv
+F.\time_real_time.sv
+!i122 80
+L0 1 31
+R4
+r1
+!s85 0
+31
+!s108 1737907156.000000
+!s107 .\time_real_time.sv|
+!s90 .\time_real_time.sv|
+!i113 1
+R5
 vtimescale_directive
 R1
 !s110 1737289954
@@ -130,6 +322,54 @@ r1
 !s90 -sv|timescale_directive.sv|
 !i113 1
 o-sv
+R5
+vtypedef_example
+R1
+!s110 1739368976
+!i10b 1
+!s100 WWVKz1[E;MD21dHIcAhX;2
+R2
+I[aBohD]oNENI@1^cdmKVe0
+R3
+S1
+R0
+w1739368968
+8.\typedef_example.sv
+F.\typedef_example.sv
+!i122 133
+R7
+R4
+r1
+!s85 0
+31
+!s108 1739368976.000000
+!s107 .\typedef_example.sv|
+!s90 .\typedef_example.sv|
+!i113 1
+R5
+vunion_example
+R1
+!s110 1739352499
+!i10b 1
+!s100 Le]JbVo2Z309nzMIT?PZj2
+R2
+I=;D1Pz2EkAzDVNcZo25>Z2
+R3
+S1
+R0
+w1739351099
+8.\union_example.sv
+F.\union_example.sv
+!i122 112
+L0 1 44
+R4
+r1
+!s85 0
+31
+!s108 1739352499.000000
+!s107 .\union_example.sv|
+!s90 .\union_example.sv|
+!i113 1
 R5
 vwire_and_assign
 R1

@@ -1,8 +1,10 @@
-# vsim -c logic_example -do "run -all; quit" 
-# Start time: 16:58:02 on Jan 25,2025
+# vsim -c typedef_example -do "run -all; quit" 
+# Start time: 16:03:00 on Feb 12,2025
 # Loading sv_std.std
-# Loading work.logic_example
+# Loading work.typedef_example
 # run -all
+# Data is = ff
+# Address is = 53
 #  quit
-# End time: 16:58:02 on Jan 25,2025, Elapsed time: 0:00:00
+# End time: 16:03:00 on Feb 12,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
