@@ -1,10 +1,19 @@
-# vsim -c example_variable -do "run -all; quit" 
-# Start time: 00:09:11 on Dec 24,2024
+# vsim -c while_concept -do "run -all; quit" 
+# Start time: 16:58:03 on Feb 14,2025
 # Loading sv_std.std
-# Loading work.example_variable
+# Loading work.while_concept
 # run -all
-# Time=0 | var_a=1010, var_b=0101, result=01111 (Decimal: 15)
-# ** Note: $finish    : ./example_variables.sv(21)
-#    Time: 0 ps  Iteration: 0  Instance: /example_variable
-# End time: 00:09:12 on Dec 24,2024, Elapsed time: 0:00:01
+# Count: 10
+# Count: 9
+# Count: 8
+# Count: 7
+# Count: 6
+# Count: 5
+# Count: 4
+# Count: 3
+# Count: 2
+# Count: 1
+# Count: 0
+#  quit
+# End time: 16:58:03 on Feb 14,2025, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0

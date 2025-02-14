@@ -9,22 +9,46 @@ z2
 !i10f 100
 cModel Technology
 Z0 dC:/Users/Emilija/Desktop/SystemVerilogFundamentals-
+vbreak_continue
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1739542735
+!i10b 1
+!s100 W^Sh[Y@EXhQ>3[n9O]>>50
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I:_WP]Q^Ji4k0CSbo1`jc93
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dC:/Users/Emilija/Desktop/SystemVerilog-Fundamentals
+w1739542732
+8.\break_continue.sv
+F.\break_continue.sv
+!i122 58
+L0 1 21
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1739542734.000000
+!s107 .\break_continue.sv|
+!s90 .\break_continue.sv|
+!i113 1
+Z6 tCvgOpt 0
 vexample_variable
-DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+R1
 !s110 1734991703
 !i10b 1
 !s100 oZX[CJiG7:GHP=M10?fM73
-!s11b Dg1SIo80bB@j0V0VzS_@n1
+R2
 IjT^TaMOVkHKIgGndj@@IV0
-VDg1SIo80bB@j0V0VzS_@n1
+R3
 S1
 R0
 w1734991605
 8.\example_variables.sv
 F.\example_variables.sv
 !i122 0
-L0 1 24
-OV;L;2020.1;71
+Z7 L0 1 24
+R5
 r1
 !s85 0
 31
@@ -32,4 +56,148 @@ r1
 !s107 .\example_variables.sv|
 !s90 .\example_variables.sv|
 !i113 1
-tCvgOpt 0
+R6
+vfor_concept
+R1
+!s110 1739539773
+!i10b 1
+!s100 DBFHP1GQOgh4GEo@o9h_m3
+R2
+IUfPBIm:h]757XI:GMc]:71
+R3
+S1
+R4
+w1739539523
+8.\for_concept.sv
+F.\for_concept.sv
+!i122 47
+R7
+R5
+r1
+!s85 0
+31
+!s108 1739539772.000000
+!s107 .\for_concept.sv|
+!s90 .\for_concept.sv|
+!i113 1
+R6
+vforeach_concept
+R1
+!s110 1739544012
+!i10b 1
+!s100 >XRH=Lb622M]C;dkP4GAV3
+R2
+IEm^FlFa1?<R2z4iQI0fQV3
+R3
+S1
+R4
+w1739541410
+8.\foreach_concept.sv
+F.\foreach_concept.sv
+!i122 59
+L0 1 14
+R5
+r1
+!s85 0
+31
+!s108 1739544012.000000
+!s107 .\foreach_concept.sv|
+!s90 .\foreach_concept.sv|
+!i113 1
+R6
+vforever_concept
+R1
+!s110 1739544727
+!i10b 1
+!s100 z>CYMfQ<Dc1bUgN>3j;hd1
+R2
+IAh]he4R[Tab96^^]Elg5a1
+R3
+S1
+R4
+w1739544709
+8.\forever_cencept.sv
+F.\forever_cencept.sv
+!i122 65
+L0 1 23
+R5
+r1
+!s85 0
+31
+!s108 1739544727.000000
+!s107 .\forever_cencept.sv|
+!s90 .\forever_cencept.sv|
+!i113 1
+R6
+vif_else_concept
+R1
+!s110 1739454518
+!i10b 1
+!s100 _?PCV^HgW5NaYlEl`ICQH3
+R2
+Id?3F?[J9lAD3m[lfh_WVg2
+R3
+S1
+R4
+w1739454516
+8.\if_else_concept.sv
+F.\if_else_concept.sv
+!i122 5
+L0 1 30
+R5
+r1
+!s85 0
+31
+!s108 1739454518.000000
+!s107 .\if_else_concept.sv|
+!s90 .\if_else_concept.sv|
+!i113 1
+R6
+vpriority_unique_if_else
+R1
+!s110 1739537380
+!i10b 1
+!s100 12LR8kIlD_8Q8OKejFig?0
+R2
+I<@^MYHaLGdfTG:bWCJ65c2
+R3
+S1
+R4
+w1739537378
+8.\priority_unique-if_else.sv
+F.\priority_unique-if_else.sv
+!i122 39
+L0 1 35
+R5
+r1
+!s85 0
+31
+!s108 1739537379.000000
+!s107 .\priority_unique-if_else.sv|
+!s90 .\priority_unique-if_else.sv|
+!i113 1
+R6
+vwhile_concept
+R1
+!s110 1739545081
+!i10b 1
+!s100 ERVAjMJ8Ah02iYJa_E^:G0
+R2
+IXPbG[Z@0YOYG`0Rbc?Og02
+R3
+S1
+R4
+w1739545079
+8.\while_concept.sv
+F.\while_concept.sv
+!i122 67
+L0 1 15
+R5
+r1
+!s85 0
+31
+!s108 1739545080.000000
+!s107 .\while_concept.sv|
+!s90 .\while_concept.sv|
+!i113 1
+R6
