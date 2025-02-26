@@ -33,6 +33,126 @@ r1
 !s90 .\break_continue.sv|
 !i113 1
 Z6 tCvgOpt 0
+vcase_example
+R1
+!s110 1740496790
+!i10b 1
+!s100 fii4Ac_6no6g[mRi[n2n`1
+R2
+ITS;A=A37BDDIPakD]eJjL3
+R3
+S1
+R4
+w1740496618
+8.\case_example.sv
+F.\case_example.sv
+!i122 103
+Z7 L0 1 17
+R5
+r1
+!s85 0
+31
+!s108 1740496790.000000
+!s107 .\case_example.sv|
+!s90 .\case_example.sv|
+!i113 1
+R6
+vcase_theoretical
+R1
+!s110 1740492800
+!i10b 1
+!s100 @`e@kA=O@JW:0Z>10bB>L2
+R2
+IMHMXWLUURTeaEeVETlW062
+R3
+S1
+R4
+w1740492796
+8.\case_theoretical.sv
+F.\case_theoretical.sv
+!i122 93
+L0 1 4
+R5
+r1
+!s85 0
+31
+!s108 1740492800.000000
+!s107 .\case_theoretical.sv|
+!s90 .\case_theoretical.sv|
+!i113 1
+R6
+vcasex_example
+R1
+!s110 1740498349
+!i10b 1
+!s100 DLafPcPdILBY9bZZnf`Kh1
+R2
+ISO2Vn5zH@_4?A<moDGZhH2
+R3
+S1
+R4
+w1740498347
+8.\casex_example.sv
+F.\casex_example.sv
+!i122 120
+L0 1 16
+R5
+r1
+!s85 0
+31
+!s108 1740498349.000000
+!s107 .\casex_example.sv|
+!s90 .\casex_example.sv|
+!i113 1
+R6
+vcasez_example
+R1
+!s110 1740498051
+!i10b 1
+!s100 IhXNQIDRZ]e3j2e6B6BN^1
+R2
+IJj?[0NJgg0<kGLLj<`_m^0
+R3
+S1
+R4
+w1740498050
+8.\casez_example.sv
+F.\casez_example.sv
+!i122 118
+R7
+R5
+r1
+!s85 0
+31
+!s108 1740498051.000000
+!s107 .\casez_example.sv|
+!s90 .\casez_example.sv|
+!i113 1
+R6
+vdo_while_concept
+R1
+!s110 1740490628
+!i10b 1
+!s100 UOJ>[;@C9<7B>moU0aEc:2
+R2
+IVg=lR5R9NLD0oSGZ0zzkQ1
+R3
+S1
+R4
+w1740490596
+8.\do_while_concept.sv
+F.\do_while_concept.sv
+!i122 91
+L0 1 18
+R5
+r1
+!s85 0
+31
+!s108 1740490628.000000
+!s107 .\do_while_concept.sv|
+!s90 .\do_while_concept.sv|
+!i113 1
+R6
 vexample_variable
 R1
 !s110 1734991703
@@ -47,7 +167,7 @@ w1734991605
 8.\example_variables.sv
 F.\example_variables.sv
 !i122 0
-Z7 L0 1 24
+Z8 L0 1 24
 R5
 r1
 !s85 0
@@ -71,7 +191,7 @@ w1739539523
 8.\for_concept.sv
 F.\for_concept.sv
 !i122 47
-R7
+R8
 R5
 r1
 !s85 0
@@ -179,24 +299,24 @@ r1
 R6
 vwhile_concept
 R1
-!s110 1739545081
+!s110 1739546394
 !i10b 1
-!s100 ERVAjMJ8Ah02iYJa_E^:G0
+!s100 8YiaR5C?N_ZGLmgQm5zoG3
 R2
-IXPbG[Z@0YOYG`0Rbc?Og02
+ILH>OkW;B:ha;niz5XU@3O2
 R3
 S1
 R4
-w1739545079
+w1739546387
 8.\while_concept.sv
 F.\while_concept.sv
-!i122 67
-L0 1 15
+!i122 72
+L0 1 20
 R5
 r1
 !s85 0
 31
-!s108 1739545080.000000
+!s108 1739546394.000000
 !s107 .\while_concept.sv|
 !s90 .\while_concept.sv|
 !i113 1

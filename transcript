@@ -1,19 +1,9 @@
-# vsim -c while_concept -do "run -all; quit" 
-# Start time: 16:58:03 on Feb 14,2025
+# vsim -c casex_example -do "run -all; quit" 
+# Start time: 17:45:51 on Feb 25,2025
 # Loading sv_std.std
-# Loading work.while_concept
+# Loading work.casex_example
 # run -all
-# Count: 10
-# Count: 9
-# Count: 8
-# Count: 7
-# Count: 6
-# Count: 5
-# Count: 4
-# Count: 3
-# Count: 2
-# Count: 1
-# Count: 0
+# Faulty sensor
 #  quit
-# End time: 16:58:03 on Feb 14,2025, Elapsed time: 0:00:00
+# End time: 17:45:52 on Feb 25,2025, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
