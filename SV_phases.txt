@@ -1,0 +1,46 @@
+1. Compilation phase:
+- The code is compiled and checked for errors.
+- Static variables (int static_var = 5;) and static arrays are allocated.
+- No simulation starts yet!
+
+🔹 Code Example:
+  int static_var = 5;  // Allocated during compilation & elaboration
+  int dynamic_arr[];   // Declared but NOT allocated yet
+
+2.Elaboration Phase (Simplified Explanation):
+- Sets up the structure of the design before simulation starts.
+- Determines how different parts of the code are connected (e.g., which variables are linked to which assignments).
+- Variables are prepared, connections are set, but nothing executes yet.
+- Static variables and arrays get their memory.
+- Dynamic arrays, queues, and associative arrays are only declared but NOT allocated memory yet
+
+
+3. Simulation Phases
+- Once elaboration is complete, simulation begins at time 0 and follows these execution steps:
+- Time starts, delays, assignments everything that is time oriented 
+
+* Simulation ends when $finish is called
+
+
+REAL LIFE EXAMPLE:
+1. Compilation Phase → Checking the Recipe
+You check if you have the ingredients (coffee, water, sugar, milk).
+Ensure the coffee machine is working.
+If something is missing (syntax error), you stop before starting.
+
+2. Elaboration Phase → Setting Up the Coffee Machine
+You connect the machine, put coffee in the filter, and pour water.
+You haven’t started brewing yet, but everything is set up and ready.
+
+3. Simulation Phases → Making & Drinking Coffee
+Now the real action starts!
+
+Time 0 Phase → Turning the Machine On
+You press the power button, and the machine starts working.
+Water is already in the machine (static variables initialized).
+Active Region (Water Starts Dripping)
+You don’t get coffee until the whole process is done.
+Postponed Region (Cleaning the Machine)
+
+4. End of Simulation → Finishing the Coffee
+The coffee is done, the machine turns off.

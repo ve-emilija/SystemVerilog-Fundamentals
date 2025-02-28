@@ -9,14 +9,62 @@ z2
 !i10f 100
 cModel Technology
 Z0 dC:/Users/Emilija/Desktop/SystemVerilogFundamentals-
+vdynamic_array
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1740749021
+!i10b 1
+!s100 lEQ[Jmz2cbP74D[?OS78=3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+INVgFGEXUO]B^5ka39?AFz2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dC:/Users/Emilija/Desktop/SystemVerilog-Fundamentals
+w1740749018
+8.\dynamic_array.sv
+F.\dynamic_array.sv
+!i122 56
+L0 1 34
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1740749021.000000
+!s107 .\dynamic_array.sv|
+!s90 .\dynamic_array.sv|
+!i113 1
+Z6 tCvgOpt 0
+vdynamic_array_example
+R1
+!s110 1740734654
+!i10b 1
+!s100 7609gL3b?>e6`[2K_ZKed1
+R2
+Imj>CJg5hTQTPd[SR?[_jQ2
+R3
+S1
+R4
+w1740734653
+8.\dynamic_array_example.sv
+F.\dynamic_array_example.sv
+!i122 44
+L0 1 33
+R5
+r1
+!s85 0
+31
+!s108 1740734654.000000
+!s107 .\dynamic_array_example.sv|
+!s90 .\dynamic_array_example.sv|
+!i113 1
+R6
 vexample_variable
-DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+R1
 !s110 1734991703
 !i10b 1
 !s100 oZX[CJiG7:GHP=M10?fM73
-!s11b Dg1SIo80bB@j0V0VzS_@n1
+R2
 IjT^TaMOVkHKIgGndj@@IV0
-VDg1SIo80bB@j0V0VzS_@n1
+R3
 S1
 R0
 w1734991605
@@ -24,7 +72,7 @@ w1734991605
 F.\example_variables.sv
 !i122 0
 L0 1 24
-OV;L;2020.1;71
+R5
 r1
 !s85 0
 31
@@ -32,4 +80,124 @@ r1
 !s107 .\example_variables.sv|
 !s90 .\example_variables.sv|
 !i113 1
-tCvgOpt 0
+R6
+vmultidimensional_array
+R1
+!s110 1740649357
+!i10b 1
+!s100 WVXl4ZY6c[m??OK5WlMGU0
+R2
+IU7^ZjZn<XWn0e[o7n_Z090
+R3
+S1
+R4
+w1740649353
+8.\multidimensional_array.sv
+F.\multidimensional_array.sv
+!i122 12
+L0 1 8
+R5
+r1
+!s85 0
+31
+!s108 1740649357.000000
+!s107 .\multidimensional_array.sv|
+!s90 .\multidimensional_array.sv|
+!i113 1
+R6
+vmultidimensional_arrays
+R1
+!s110 1740651607
+!i10b 1
+!s100 BiO241z_mandcYWd54I@21
+R2
+INDJi30G2I51H`TN1Kh33k2
+R3
+S1
+R4
+w1740651605
+8.\multidimensional_arrays.sv
+F.\multidimensional_arrays.sv
+!i122 26
+L0 1 40
+R5
+r1
+!s85 0
+31
+!s108 1740651607.000000
+!s107 .\multidimensional_arrays.sv|
+!s90 .\multidimensional_arrays.sv|
+!i113 1
+R6
+vpacked_array
+R1
+!s110 1740664950
+!i10b 1
+!s100 if?_bA`z9BNXmARX2gek>0
+R2
+IUc9D@ZkD;SW`<3<Wo3ozj2
+R3
+S1
+R4
+w1740664948
+8.\packed_array.sv
+F.\packed_array.sv
+!i122 43
+L0 1 25
+R5
+r1
+!s85 0
+31
+!s108 1740664950.000000
+!s107 .\packed_array.sv|
+!s90 .\packed_array.sv|
+!i113 1
+R6
+vstatic_arrays
+R1
+!s110 1740647909
+!i10b 1
+!s100 fDOFYh7@1m?YTjhB1N19Z1
+R2
+Ii>5Zg9kiP`f=`EF7=b`ie0
+R3
+S1
+R4
+w1740647860
+8.\static_arrays.sv
+F.\static_arrays.sv
+!i122 11
+L0 1 43
+R5
+r1
+!s85 0
+31
+!s108 1740647909.000000
+!s107 .\static_arrays.sv|
+!s90 .\static_arrays.sv|
+!i113 1
+R6
+vunpacked_array
+R1
+!s110 1740748377
+!i10b 1
+!s100 CV=lh;bijd`OPZ:IB]38[3
+R2
+I>e:B=M>@:DM>EDT^KDKnJ0
+R3
+S1
+R4
+w1740748177
+8.\unpacked_array.sv
+F.\unpacked_array.sv
+!i122 53
+L0 1 31
+R5
+r1
+!s85 0
+31
+!s108 1740748377.000000
+!s107 .\unpacked_array.sv|
+!s90 .\unpacked_array.sv|
+!i113 1
+R6
